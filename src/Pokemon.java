@@ -1,5 +1,5 @@
 
-public class Poke {
+public class Pokemon {
 
 	public static void main(String[] args) {
 		System.out.println("Pikachu welcomes you to the world of Pokemon!");
